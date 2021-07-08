@@ -1,11 +1,5 @@
-<img src="https://raw.githubusercontent.com/jamogriff/jamogriff/master/conscious-code.jpg" alt="Jamison writes conscious code">
+<img src="https://jamison.codes/assets/branding/full-logo.png" alt="Jamison writes conscious code" width="180px">
 
-## Hey, my name is Jamison. Find out more about me at [jgriffith.me](https://jgriffith.me) 👋
-
-- 🤙 Pronouns: he/him
-- 💻 I’m currently writing programs in Ruby and will start [Turing.io's](https://turing.io) backend engineering program in March.
-- 🌱 My programming background stems from teaching Arduino and git in higher-ed with a healthy dose of PHP development.
-- :guitar: Fun fact: I've played guitar for 8+ years. Love playing the blues and heavy metal riffs.
-- 🎶 Current programming soundtrack: **[Wardruna](https://youtu.be/JhiUacGzIg8)** and **[Erik Wøllo](https://youtu.be/bIDTK33YH44)**
+### I am a software engineer, multi-instrumentalist and dog dad residing in Colorado. Check out my [development worklog](https://jamison.codes/worklog) to see what I'm currently working on.
 
 >### *__"We who cut mere stones must always be envisioning cathedrals."__ - medieval stonemason's creed*
