@@ -1,9 +1,15 @@
-### I am a full-stack developer specializing in SOLID code in PHP, JavaScript and Ruby
+### I am a diligent and empathetic full-stack developer specializing in SOLID code
 Alas, 95% of my commits currently end up on a private GitLab server for [my day job](https://zingstudios.com/).
 
-[![Top Languages]](https://github.com/anuraghazra/github-readme-stats)
 
 >### *__"We who cut mere stones must always be envisioning cathedrals."__ - medieval stonemason's creed*
 
 
-[Top Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=jamogriff&layout=compact&bg_color=EDCB96&title_color=0E0E52&langs_count=6&hide_border=true&text_color=0E0E52&card_width=240&hide=html&cache_seconds=86400&custom_title=Programming%20Toolkit
+![Static Badge](https://img.shields.io/badge/-PHP-%23777BB4?style=flat)
+![Static Badge](https://img.shields.io/badge/Typescript-%2336454F?style=flat&logo=typescript)
+![Static Badge](https://img.shields.io/badge/Javascript-%2336454F?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/React-%2336454F?style=flat&logo=react)
+![Static Badge](https://img.shields.io/badge/Vue-%2336454F?style=flat&logo=vuedotjs)
+![Static Badge](https://img.shields.io/badge/Symfony-%2336454F?style=flat&logo=symfony)
+![Static Badge](https://img.shields.io/badge/Laravel-%2336454F?style=flat&logo=laravel)
+![Static Badge](https://img.shields.io/badge/Docker-%2336454F?style=flat&logo=docker)
