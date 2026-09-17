@@ -11,6 +11,9 @@ by day and piddle around here in my free time.
 - [gruv-poole](https://rubygems.org/gems/jekyll-theme-gruv-poole) — a WCAG-compliant, 
   Gruvbox-inspired Jekyll theme used on [my website](https://www.jamogriff.dev)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamogriff&layout=compact&theme=gruvbox&langs_count=8)
+[
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jamogriff&layout=compact&theme=gruvbox&langs_count=8)
+](https://github.com/stats-organization/github-stats-extended)
+
 
 >### *__"We who cut mere stones must always be envisioning cathedrals."__ - medieval stonemason's creed*
