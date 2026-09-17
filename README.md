@@ -1,22 +1,16 @@
 ## Howdy!
 
-I am a seasoned full-stack developer who balances writing SOLID code with shipping on a deadline. 
-Alas, 95% of my commits currently end up on a private GitLab server for [my day job](https://zingstudios.com/).
+I'm a seasoned full-stack developer with a background in biology and
+iterative prototyping. I build and maintain critical business applications
+by day and piddle around here in my free time.
 
-Software that makes me smile:
-- Oh My Zsh
-- git
-- Docker
+**Published work**
 
+- [bare-cli](https://pypi.org/project/bare-cli) — semantic CLI code,
+  beautifully bare text output
+- [gruv-poole](https://rubygems.org/gems/jekyll-theme-gruv-poole) — a WCAG-compliant, 
+  Gruvbox-inspired Jekyll theme used on [my website](https://www.jamogriff.dev)
 
-![Static Badge](https://img.shields.io/badge/-PHP-%23777BB4?style=flat)
-![Static Badge](https://img.shields.io/badge/Symfony-%2336454F?style=flat&logo=symfony)
-![Static Badge](https://img.shields.io/badge/Laravel-%2336454F?style=flat&logo=laravel)
-![Static Badge](https://img.shields.io/badge/Typescript-%2336454F?style=flat&logo=typescript)
-![Static Badge](https://img.shields.io/badge/Javascript-%2336454F?style=flat&logo=javascript)
-![Static Badge](https://img.shields.io/badge/React-%2336454F?style=flat&logo=react)
-![Static Badge](https://img.shields.io/badge/Vue-%2336454F?style=flat&logo=vuedotjs)
-![Static Badge](https://img.shields.io/badge/Docker-%2336454F?style=flat&logo=docker)
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamogriff&layout=compact&theme=gruvbox&langs_count=8)
 
 >### *__"We who cut mere stones must always be envisioning cathedrals."__ - medieval stonemason's creed*
